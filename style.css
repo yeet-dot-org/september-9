@@ -1,0 +1,18 @@
+body {
+    text-align: center;
+    font-family: sans-serif;
+}   
+img{
+    width:225px;
+    margin: 100px auto 50px;
+    border-radius: 50%;
+}
+h3,
+p {
+ margin: 0;
+ padding: 0;
+}
+
+p {
+ font-weight: 100;
+}
